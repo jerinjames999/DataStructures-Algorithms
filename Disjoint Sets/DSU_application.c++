@@ -97,7 +97,7 @@ void unify(int x, int y) {
     parent[y] = x;
  
 }
- 
+
 void solve() {
     int N; cin >> N;
     int M; cin >> M;
