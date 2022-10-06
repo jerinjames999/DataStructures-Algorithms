@@ -1,3 +1,4 @@
+// Adding numbers using fenwick Tree
 #include <bits/stdc++.h>
 using namespace std;
 
